@@ -24,9 +24,9 @@ The following **optional** functionality is completed:
 
 ## Video MovieFlicks
 
-Here's a MovieFlicks of implemented user stories:
+Here's a MovieFlicks of implemented user stories(https://imgur.com/a/MIqT7mJ):
 
-<img src='https://imgur.com/a/MIqT7mJ' title='Video MovieFlicks' width='' alt='Video MovieFlicks' />
+
 
 GIF created with [VideoToGif](https://play.google.com/store/apps/details?id=com.kayak.studio.gifmaker).
 
